@@ -1,0 +1,24 @@
+{
+  "Fishes": [
+    {
+      "Genre": "Aphyosemion",
+      "Espece": "exiguum",
+      "Population": "batibo"
+    },
+    {
+      "Genre": "Nothobranchius",
+      "Espece": "ocellatus",
+      "Population": "Salambala"
+    },
+    {
+      "Genre": "Aphyosemion",
+      "Espece": "Australe",
+      "Population": "Gold"
+    },
+    {
+      "Genre": "Procatopus",
+      "Espece": "sp.",
+      "Population": "Les Banda"
+    }
+  ]
+}
